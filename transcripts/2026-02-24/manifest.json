@@ -1,0 +1,87 @@
+{
+  "session_date": "2026-02-24",
+  "total_lines": 2540,
+  "chunk_size": 200,
+  "num_chunks": 13,
+  "base_url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24",
+  "chunks": [
+    {
+      "name": "chunk_001.jsonl",
+      "lines": "1-200",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_001.jsonl",
+      "size_bytes": 279454
+    },
+    {
+      "name": "chunk_002.jsonl",
+      "lines": "201-400",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_002.jsonl",
+      "size_bytes": 6238449
+    },
+    {
+      "name": "chunk_003.jsonl",
+      "lines": "401-600",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_003.jsonl",
+      "size_bytes": 3489504
+    },
+    {
+      "name": "chunk_004.jsonl",
+      "lines": "601-800",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_004.jsonl",
+      "size_bytes": 3915737
+    },
+    {
+      "name": "chunk_005.jsonl",
+      "lines": "801-1000",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_005.jsonl",
+      "size_bytes": 8858892
+    },
+    {
+      "name": "chunk_006.jsonl",
+      "lines": "1001-1200",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_006.jsonl",
+      "size_bytes": 464830
+    },
+    {
+      "name": "chunk_007.jsonl",
+      "lines": "1201-1400",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_007.jsonl",
+      "size_bytes": 489424
+    },
+    {
+      "name": "chunk_008.jsonl",
+      "lines": "1401-1600",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_008.jsonl",
+      "size_bytes": 577257
+    },
+    {
+      "name": "chunk_009.jsonl",
+      "lines": "1601-1800",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_009.jsonl",
+      "size_bytes": 619683
+    },
+    {
+      "name": "chunk_010.jsonl",
+      "lines": "1801-2000",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_010.jsonl",
+      "size_bytes": 504685
+    },
+    {
+      "name": "chunk_011.jsonl",
+      "lines": "2001-2200",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_011.jsonl",
+      "size_bytes": 950075
+    },
+    {
+      "name": "chunk_012.jsonl",
+      "lines": "2201-2400",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_012.jsonl",
+      "size_bytes": 472109
+    },
+    {
+      "name": "chunk_013.jsonl",
+      "lines": "2401-2540",
+      "url": "https://raw.githubusercontent.com/Wentinkjason/ren-transcripts/main/transcripts/2026-02-24/chunk_013.jsonl",
+      "size_bytes": 246084
+    }
+  ]
+}
